@@ -1,1 +1,0 @@
-print("hi lagi 2")
